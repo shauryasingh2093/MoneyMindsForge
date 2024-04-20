@@ -1,0 +1,2 @@
+# MoneyMindsForge
+cryptocurrency predictor
